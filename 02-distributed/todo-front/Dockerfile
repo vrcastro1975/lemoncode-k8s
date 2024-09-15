@@ -1,6 +1,6 @@
 FROM node:12-alpine3.12 as builder
 
-ARG API_HOST
+# ARG API_HOST
 
 WORKDIR /app
 
